@@ -15,10 +15,9 @@ MLENet is a high-efficiency network designed for accurate human keypoint estimat
 
 Extensive experiments on standard datasets demonstrate that MLENet achieves superior accuracy and speed, making it suitable for real-world applications requiring efficient human pose estimation.
 
-## Installation
+## Contact
 
-```bash
-# Clone the repository
-git clone https://github.com/wangdong0556/MLENet.git
- 
+For any questions or feedback, please feel free to contact:
 
+**Dong Wang**  
+Email: [dongwang@ahjzu.edu.cn](mailto:dongwang@ahjzu.edu.cn)
